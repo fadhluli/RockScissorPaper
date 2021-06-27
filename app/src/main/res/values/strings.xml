@@ -1,3 +1,26 @@
 <resources>
     <string name="app_name">RockScissorPaper</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="text_landing_page1">Bermain suit melawan sesama pemain</string>
+    <string name="text_landing_page2">Bermain suit melawan komputer</string>
+    <string name="text_menu_title">PILIH LAWANMU</string>
+    <string name="text_hasil_permainan">Hasil Permainan</string>
+    <string name="text_btn_play_again">Main Lagi</string>
+    <string name="text_btn_back_to_menu">Kembali ke Menu</string>
+    <string name="text_landing_page3">Tuliskan namamu di bawah</string>
+    <string name="text_user_vs_cpu">%s vs CPU</string>
+    <string name="text_user_vs_user">%s vs Pemain</string>
+    <string name="text_welcome">Selamat Datang %s</string>
+    <string name="text_winning_condition">%s \n Menang!</string>
+    <string name="text_draw_condition">Seri!</string>
+    <string name="text_toast_choice">%s Memilih %s</string>
+    <string name="text_enemy_player2">Player 2</string>
+    <string name="text_enemy_cpu">CPU</string>
+    <string name="text_toast_choose_attention">%s Turn First</string>
+    <string name="text_player_cpu">CPU</string>
+    <string name="text_player_player2">Player 2</string>
+    <string name="text_shape_rock">Batu</string>
+    <string name="text_shape_paper">Kertas</string>
+    <string name="text_shape_scissor">Gunting</string>
 </resources>

@@ -6,7 +6,7 @@ enum class PlayerShape(val shape: Int) {
     PAPPER(1),
     SCISSOR(2);
 
-    companion object{
-        fun fromInt(shape: Int) = values().first(){it.shape == shape}
+    companion object {
+        fun fromInt(shape: Int) = values().first() { it.shape == shape }
     }
 }
