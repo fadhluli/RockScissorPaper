@@ -11,5 +11,7 @@
     <color name="colorTextPrimary">#27d3f5</color>
     <color name="colorPrimary">#E0ECF4</color>
     <color name="colorVariant">#E0ECF4</color>
+    <color name="colorPrimaryBtn">#00ff00</color>
+    <color name="colorSecondaryBtn">#ff8000</color>
 
 </resources>
